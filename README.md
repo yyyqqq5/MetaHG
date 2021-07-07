@@ -13,7 +13,9 @@ pip install -r requirements.txt
 ## Usage
 
 This source code contains two parts, meta learning source code and representation learning source code.
+
 We can run the code with GSL (graph structure learning), SSL (self-supervised Learning), RGCN (relation graph convolutional network) and Meta-Learning with the scripts ```main.py```.
+
 We can run the knowledge distillation based meta-learning code with the scripts ```kd_meta.py```.
 
 
